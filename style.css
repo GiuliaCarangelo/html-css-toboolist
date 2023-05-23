@@ -6,6 +6,14 @@
 
 }
 
+body {
+    background-color: #1e6e95;
+}
+
+.header {
+    background-color: white;
+}
+
 img {
     margin-top: 20px;
     margin-left: 20px;
@@ -21,3 +29,9 @@ h1 {
     vertical-align: middle;
     display: inline-block;
 }
+
+.background {
+    height: 100%;
+    background-color: ;
+}
+
